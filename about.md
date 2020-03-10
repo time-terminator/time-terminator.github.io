@@ -9,7 +9,7 @@ permalink: /about/
 
 ##联系方式
 ｑｑ：１１６０２４００６０ <br>
-微信：
+微信：<br>
 ![avatar](/images/wechat.png) <br>
 邮箱：
-[email@domain.com](mailto:email@domain.com)
+[1160240060@qq.com](mailto:1160240060@qq.com)
