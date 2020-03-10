@@ -5,5 +5,5 @@ permalink: /about/
 ---
 <hr>
 微信：
-![wechat](/images/wechat.jpg)
+![wechat](/images/wechat.png)
 邮箱：[1160240060@qq.com](mailto:1160240060@qq.com)
