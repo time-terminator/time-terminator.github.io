@@ -18,18 +18,18 @@ html {
 }
 
 body {
-  background:url("/images/bg.jpg");
-  background-size:100%;
+  background:$white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-
+.wrapper-masthead{
+  background-color: $lightGray;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background-color: $lightGray;
 }
 
 h1, h2, h3, h4, h5, h6 {
