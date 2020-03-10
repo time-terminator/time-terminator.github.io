@@ -1,15 +1,11 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
+＃＃本人介绍
+ｑｑ：１１６０２４００６０
+＃＃微信：
+![avatar](/image/wechat.png)
+＃＃邮箱：
 [email@domain.com](mailto:email@domain.com)
