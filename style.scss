@@ -18,7 +18,8 @@ html {
 }
 
 body {
-  background: url('/images/bg.jpg');
+  background:url("/images/bg.jpg");
+  background-size:100%;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
